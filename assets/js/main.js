@@ -8,7 +8,7 @@ let offset = 0;
 function convertPokemonToLi(pokemon) {
     return `
         <li class="pokemon ${pokemon.type}">
-            <a href="detail?number=${pokemon.number}">
+            <a href="detail.html?number=${pokemon.number}">
                 <span class="number">#${pokemon.number}</span>
                 <span class="name">${pokemon.name}</span>
                 <div class="detail">
