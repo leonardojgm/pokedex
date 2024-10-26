@@ -12,3 +12,4 @@ Desenvolvido durante o Bootcamp Ri Happy - Front-end do Zero
 
 ![image](https://github.com/user-attachments/assets/78900fd2-04da-48ed-ae2a-f462a44c135c)
 
+![image](https://github.com/user-attachments/assets/f480279a-a86e-4493-ade2-e7ad3c7cb0c9)
